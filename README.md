@@ -4,7 +4,7 @@ Currently pursuing mba with building practical skills in Business Analytics, Fin
 This portfolio showcases my work using Excel, Power BI, SQL, and data visualization to analyze data and generate meaningful business insights.
 
 🛠️ Skills & Tools
-Excel – Data Analysis, Pivot Tables, Dashboards, Slicers, KPI Analysis
+Excel – Formulas,data cleaning,Data Analysis, Pivot Tables, Dashboards, Slicers, KPI Analysis
 Power BI – Data Visualization, Power Query, DAX, Interactive Dashboards
 SQL – Joins, Aggregations, CTEs, CASE WHEN, Window Functions
 Business Analytics – Data Cleaning, Analysis, Visualization, Business Insights
@@ -13,7 +13,7 @@ Business Analytics – Data Cleaning, Analysis, Visualization, Business Insights
 
 📊 Excel Sales Dashboard
 
-An interactive Excel dashboard created to analyze sales performance, KPIs, products, regions, and business trends.
+An interactive Excel data clening, dashboard created to analyze sales performance, KPIs, products, regions, and business trends.
 
 Skills: Excel | Pivot Tables | Slicers | Data Analysis | Dashboard | formulas |DATA CLEANING
 
