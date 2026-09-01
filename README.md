@@ -15,7 +15,7 @@ Business Analytics – Data Cleaning, Analysis, Visualization, Business Insights
 
 An interactive Excel dashboard created to analyze sales performance, KPIs, products, regions, and business trends.
 
-Skills: Excel | Pivot Tables | Slicers | Data Analysis | Dashboard | formulas
+Skills: Excel | Pivot Tables | Slicers | Data Analysis | Dashboard | formulas |DATA CLEANING
 
 📈 Power BI Sales Dashboard
 
