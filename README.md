@@ -46,4 +46,4 @@ An interactive Excel dashboard developed to analyze salesperson performance, inc
 
 ![Dashboard Preview](## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png)
