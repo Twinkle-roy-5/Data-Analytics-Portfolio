@@ -42,4 +42,8 @@ An interactive Excel dashboard developed to analyze salesperson performance, inc
 - Analyzed achievement performance across different months.
 - Compared incentive payouts across salespersons.
 - Used interactive filters to analyze performance.
+## Dashboard Preview
 
+![Dashboard Preview](## Dashboard Preview
+
+![Dashboard Preview](Dashboard_Screenshot.png)
