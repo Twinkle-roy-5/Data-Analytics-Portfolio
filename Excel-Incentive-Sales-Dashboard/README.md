@@ -44,4 +44,5 @@ An interactive Excel dashboard developed to analyze salesperson performance, inc
 - Used interactive filters to analyze performance.
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot%20.png)
+
